@@ -6,3 +6,5 @@ matplotlib
 japanize-matplotlib
 seaborn
 imblearn
+typing_extensions
+tensorflow-cpu
